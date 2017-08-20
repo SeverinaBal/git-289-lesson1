@@ -5,9 +5,6 @@
 Severina Balabanova
 
 
-日期
-----
-2017/08/19
 
 Github Username
 ---------------
@@ -18,3 +15,9 @@ SeverinaBal
 - travel
 - cook
 - read books
+
+I like the following languages
+------------
+- Python
+- Javascript
+- Ruby
